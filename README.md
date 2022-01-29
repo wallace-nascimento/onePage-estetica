@@ -22,8 +22,9 @@ https://wallace-nascimento.github.io/onePage-estetica/
 
 
  ## Desenvolvimento 
-<P>-O site foi desenvolvido utilizado técnicas de flex box.</p>
--Utlizei um frameWork para fazer o efeito dos elementos aparecerem de baixo para cima <br/>
-<p>-O desenvolvimento foi para fins educativos para aperfeiçoamento das linguagens, HTML5 e CSS3, para explorar ao máximo que as tecnologias podem oferecer.</p>
+<P>-O site foi desenvolvido utilizando técnicas de flex box.</p>
+-Utilizei um frameWork para fazer o efeito dos elementos aparecerem de baixo para cima <br/>
+<p>-O desenvolvimento foi para fins educativos para aperfeiçoamento das linguagens, HTML5 e CSS3, para explorar ao máximo o que as tecnologias podem oferecer.</p>
+
 
 
