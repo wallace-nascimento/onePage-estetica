@@ -11,13 +11,14 @@ https://wallace-nascimento.github.io/onePage-estetica--/
 
 ![estetica2](https://user-images.githubusercontent.com/87508400/151669567-080d9cf1-17fe-4b51-81e3-54cc3cd5cb2d.JPG)
 
-#Tecnologia:
+# Tecnologia:
 
-> HTML
-> CSS
+> HTML; <br/> 
+> 
+> CSS; 
 
  ## Desenvolvimento 
-<P>O site foi desenvolvido utilizado técnicas de flex.</p>
-
+<P>O site foi desenvolvido utilizado técnicas de flex box.</p> 
+O desenvolvimento foi para fins educativos para aperfeiçoamento das linguagens, HTML5 e CSS3, para explorar ao máximo que as tecnologias podem oferecer. 
 
 
