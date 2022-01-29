@@ -7,7 +7,7 @@
 > de forma resumida e objetiva.
 
 ### Link para o projeto.
-https://wallace-nascimento.github.io/onePage-estetica--/
+https://wallace-nascimento.github.io/onePage-estetica/
 
 ![estetica2](https://user-images.githubusercontent.com/87508400/151669567-080d9cf1-17fe-4b51-81e3-54cc3cd5cb2d.JPG)
 
